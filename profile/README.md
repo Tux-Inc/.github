@@ -1,11 +1,6 @@
 ## 👋 Hey everyone, welcome to the TUX Inc. Organization 👋
 
-<center>
-    </br>
-    <img src="https://raw.githubusercontent.com/Tux-Inc/.github/main/.assets/tux.png" alt="Tux" width="200" height="200" />
-    </br>
-    </br>
-</center>
+<img src="https://raw.githubusercontent.com/Tux-Inc/.github/main/.assets/tux.png" alt="Tux" align="right" width="200" height="200"/>
 
 Every day the TUX Inc team is working on new projects, some of them are personnal and some of them are school projects.
 We are a group of students from Epitech, a french school of computer science.

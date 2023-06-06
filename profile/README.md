@@ -2,7 +2,7 @@
 
 <center>
     </br>
-    <img src="./../.assets/tux.png" alt="Tux" align="center" width="200" height="200" />
+    <img src="https://raw.githubusercontent.com/Tux-Inc/.github/main/.assets/tux.png" alt="Tux" width="200" height="200" />
     </br>
     </br>
 </center>

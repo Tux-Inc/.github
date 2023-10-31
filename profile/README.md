@@ -1,4 +1,4 @@
-## 👋 Hey everyone, welcome to the TUX Inc. Organization 👋
+## 👋 Hey everyone, welcome to the TUX Inc. Organization
 
 <img src="https://raw.githubusercontent.com/Tux-Inc/.github/main/.assets/tux.png" alt="Tux" align="right" width="200" height="200"/>
 
